@@ -37,9 +37,14 @@ This head shows a diagonal pattern where tokens are paying attention to the toke
 Example Sentences:
 - I threw a small rock and it fell in the [MASK].
 
-  https://github.com/madhav1k/Attention/blob/main/Attention_Layer8_Head5.png?raw=true![image](https://github.com/user-attachments/assets/a8fd5e96-f2c3-494d-888b-685dc1f9248b)
+  ![Attention_Layer8_Head5](https://github.com/user-attachments/assets/70babaa2-24af-4acc-816d-18058dd7b409)
+
+
 
 - I was walking with my dog [MASK] it started barking.
+
+  ![Attention_Layer8_Head5](https://github.com/user-attachments/assets/dc153d91-4e52-4394-b634-68206d46be2a)
+
 
   
 
@@ -50,9 +55,12 @@ This head focuses primarily on the SEP token, with the pronoun "it" paying atten
 Example Sentences:
 - I threw a small rock and it fell in the [MASK].
 
-  https://github.com/madhav1k/Attention/blob/main/Attention_Layer9_Head11.png?raw=true![image](https://github.com/user-attachments/assets/9a7191a5-3e8b-4b6a-b8cf-325afcc82bf7)
+  ![Attention_Layer9_Head11](https://github.com/user-attachments/assets/91a49e84-7b2e-4001-9682-cb9826ec6209)
 
 - I was walking with my dog [MASK] it started barking.
+
+  ![Attention_Layer9_Head11](https://github.com/user-attachments/assets/849ea290-5bb8-4ca2-8bfc-77596ad069a2)
+
 
 
 
