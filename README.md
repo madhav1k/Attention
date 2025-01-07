@@ -1,9 +1,11 @@
 # Attention
  AI to predict a masked word in a text sequence using Google BERT Masked Language Model from Hugging Face Transformers
 
-•	AI to predict a masked word in a text sequence using Google Bidirectional Encoder Representations from Transformers (BERT) Masked Language Model from Hugging Face Transformers library and generate diagrams visualizing attention scores for each of the 144 self-attention heads for a given sentence.
-
-•	Used TensorFlow to get top k predicted tokens from vocabulary logits for mask token from the input sequence
+- AI to predict a masked word in a text sequence using Google Bidirectional Encoder Representations from Transformers (BERT) Masked Language Model from Hugging Face and generate diagrams visualizing attention scores for each of the 144 self-attention heads for a given sentence.
+  
+- Built with Python, TensorFlow, Transformers (Hugging Face), Pillow (PIL), BERT, and more
+  
+- Used TensorFlow to get top k predicted tokens from vocabulary logits for mask token from the input sequence
 
 
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/cfdc73bc-509e-498d-8e7e-04ec12d8ddc1" />
