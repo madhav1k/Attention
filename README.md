@@ -39,11 +39,11 @@ This head shows a diagonal pattern where tokens are paying attention to the toke
 Example Sentences:
 - I threw a small rock and it fell in the [MASK].
 
-  <img width="1200" alt="image" src="https://github.com/user-attachments/assets/70babaa2-24af-4acc-816d-18058dd7b409" />
+<img width="1200" alt="image" src="https://github.com/user-attachments/assets/70babaa2-24af-4acc-816d-18058dd7b409" />
 
 - I was walking with my dog [MASK] it started barking.
 
-  <img width="1200" alt="image" src="https://github.com/user-attachments/assets/dc153d91-4e52-4394-b634-68206d46be2a" />
+<img width="1200" alt="image" src="https://github.com/user-attachments/assets/dc153d91-4e52-4394-b634-68206d46be2a" />
 
 
   
@@ -55,11 +55,11 @@ This head focuses primarily on the SEP token, with the pronoun "it" paying atten
 Example Sentences:
 - I threw a small rock and it fell in the [MASK].
 
-  <img width="1200" alt="image" src="https://github.com/user-attachments/assets/91a49e84-7b2e-4001-9682-cb9826ec6209" />
+<img width="1200" alt="image" src="https://github.com/user-attachments/assets/91a49e84-7b2e-4001-9682-cb9826ec6209" />
 
 - I was walking with my dog [MASK] it started barking.
 
-  <img width="1200" alt="image" src="https://github.com/user-attachments/assets/849ea290-5bb8-4ca2-8bfc-77596ad069a2" />
+<img width="1200" alt="image" src="https://github.com/user-attachments/assets/849ea290-5bb8-4ca2-8bfc-77596ad069a2" />
 
 
 
